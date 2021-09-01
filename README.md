@@ -9,12 +9,6 @@ Medical/health is the location of the website to be launched
 
 Aim : We aim at catering the needs of patients and providing them with the best of healthcare facilities.We have a doctor recommendation system wherein a patient can track his past appointments and a new patient would be recommended the best doctor available based on their speciality by taking in data about which type of patients a doctor treats the best and also your illness is taken in considerations
 
-## ER Diagram
-![](../main/Screenshots/image2.png?raw=true)
-
-## Schema Diagram
-![](../main/Screenshots/image24.png?raw=true)
-
 Features
 1. Hospital authentication.(register / login)
 2. Hospital Personal Information can be viewed
@@ -36,62 +30,6 @@ Database: DB Sqlite
 Code: Python
 Front End: HTML, CSS, Javascript, Bootstrap
 Back End: Django
-
-
-## Home Page
-![](../main/Screenshots/image15.png?raw=true)
-
-## Hospital (Signup and Login)
-![](../main/Screenshots/image26.png?raw=true)
-
-## Hospital Page (Massaccheutes) :
-![](../main/Screenshots/image25.png?raw=true)
-
-## Doctor
-![](../main/Screenshots/image20.png?raw=true)
-
-## Doctor (Dorie):
-![](../main/Screenshots/image16.png?raw=true)
-
-## Patient
-![](../main/Screenshots/image12.png?raw=true)
-
-## Patient Page (Ernesto):
-![](../main/Screenshots/image13.png?raw=true)
-
-## Patient Record (New) :
-![](../main/Screenshots/image4.png?raw=true)
-
-## Patient Appointment (New):
-![](../main/Screenshots/image29.png?raw=true)
-
-## See Doctors:
-![](../main/Screenshots/image21.png?raw=true)
-
-## About Us:
-![](../main/Screenshots/image31.png?raw=true)
-
-## Contact Us:
-![](../main/Screenshots/image22.png?raw=true)
-
-## Admin:
-![](../main/Screenshots/image9.png?raw=true)
-
-## Urls.py:
-![](../main/Screenshots/image23.png?raw=true)
-
-## Views.py:
-![](../main/Screenshots/image14.png?raw=true)
-
-# Models.py:
-## Hospital Model
-![](../main/Screenshots/image27.png?raw=true)
-
-## Doctor Model
-![](../main/Screenshots/image30.png?raw=true)
-
-## Patient Model:
-![](../main/Screenshots/image19.png?raw=true)
 
 ## Future Scope:
 We plan on taking it a step forward by making it an interactive platform which fulfills the needs of doctors as well as patients to the fullest.
